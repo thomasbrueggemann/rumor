@@ -1,0 +1,10 @@
+{
+	"name": "Rumor",
+	"description": "Classify realtime tweets using rumor theoretic analysis",
+	"version": "1.0.0",
+	"private": true,
+	"dependencies": {
+		"node-tweet-stream"	: "1.6.0",
+		"querystring"		: "0.2.0"
+	}
+}

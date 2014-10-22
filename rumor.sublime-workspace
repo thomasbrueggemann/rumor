@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"event",
+				"eventData"
+			],
+			[
+				"pull",
+				"pull_sock"
+			],
+			[
+				"push",
+				"pushPort"
+			],
+			[
+				"SendIn",
+				"sendingInterval"
+			],
+			[
+				"quer",
+				"queryCol"
+			],
+			[
+				"i18n",
+				"i18nCol"
+			],
+			[
+				"local",
+				"localFeeds"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"informme",
+				"informme_wordgraph"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"load",
+				"loadUserData"
+			],
+			[
+				"check",
+				"checkForInforms"
+			],
+			[
+				"user",
+				"usertlds"
+			],
+			[
+				"md",
+				"md_hash"
+			],
+			[
+				"init",
+				"initTitle"
+			],
+			[
+				"ca",
+				"CATALINA_HOME"
+			],
+			[
+				"apache",
+				"apache-tomcat-6"
+			],
+			[
+				"home",
+				"home_path"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"youtube",
+				"youtubebox"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rumor.js",
+			"settings":
+			{
+				"buffer_size": 506,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/Rumor"
+	],
+	"file_history":
+	[
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-watch/www/templates/events.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/www/js/app.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-server/reports.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-watch/www/js/main.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/plugins/com.frjsh.companion.sense.backgroundplugin/src/phonegap/backgroundplugin.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/www/js/views/SettingsView.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/www/config.xml",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/www/templates/info.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/www/js/locales/nls/info.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/www/js/locales/nls/en/info.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-watch/www/index.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-watch/www/config.xml",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/platforms/android/assets/www/plugins/com.frjsh.companion.sense.backgroundplugin/src/phonegap/backgroundplugin.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/www/js/views/HomeView.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/platforms/android/src/com/frjsh/companion/sense/backgroundplugin/BackgroundService.java",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/platforms/android/src/com/frjsh/companion/sense/backgroundplugin/BackgroundPlugin.java",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/plugins/com.frjsh.companion.sense.backgroundplugin/src/android/BackgroundPlugin.java",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/frjsh/companion-sense/plugins/com.frjsh.companion.sense.backgroundplugin/src/android/BackgroundService.java",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Downloads/BlueWorldAlleTourendaten.csv",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/src/informme/layout.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/_layout.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/settings.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/views_get.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Dropbox/Blueworld GmbH/csv/BlueWorldAlleTourendaten.csv",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Dropbox/Blueworld GmbH/borchers/default_mapping.csv",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Dropbox/Blueworld GmbH/kneppenbrecht_import.csv",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/api/server.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/src/informme/index.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/src/i18next-1.7.1.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/Gruntfile.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/informme.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/index.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/search.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/bookmarks.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/common.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/heatmap.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/topics.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/informme.min.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/src/informme/informs.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/jquery.fancybox.pack.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/crawler/graphbuilder.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/crawler/wordgraph.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/crawler/feedcrawler_reducer.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/crawler/listener_informs.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/informs.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/package.json",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/crawler/listener_wordgraph.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/blog.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/local.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/css/i.min.css",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/views.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/imprint.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/admin.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/views_informs.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/crawler/wordcluster.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/views_profile.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/models.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates/profile.html",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/views_post.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/crawler/t.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/feedcrawler/feedcrawler_mapper.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/thomasbrueggemann/api/server.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/start_data_node.sh",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/ejs/topicpage.ejs",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/jquery.bbq.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/feedcrawler/feedcrawler_reducer.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/files/js/index.js",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/feedcrawler/extractor.py",
+		"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/informme.tmproj"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Macintosh/Users/thomasbruggemann/Sites/informme/website/frontend/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"event_data",
+			"group",
+			"event_data",
+			"push",
+			"sendinterval",
+			"scheduledTaskExecutor",
+			"ScheduledCommunicationTask",
+			"posting",
+			"try",
+			"configure",
+			"postLocations",
+			"isdebugging",
+			"TimedCommunicationTask",
+			"backgroundplugin",
+			"updatePosition",
+			"ACTION_CONFIGURE",
+			"isdebu",
+			"sendingInterval",
+			"ScheduledCommunicationTask",
+			"thumbs",
+			"findShortIdForQuery",
+			"shorten",
+			"twitter",
+			"api",
+			"\"",
+			"{%",
+			"trans",
+			"block",
+			"dertag",
+			"TLD",
+			"console",
+			"live",
+			"default",
+			"smoothDivScroll",
+			"tinysort",
+			"mousewheel",
+			"'",
+			"cycle",
+			"stemmer",
+			"extractAlphas",
+			"graph",
+			"ui",
+			"stopwords",
+			"keyword",
+			"twitter",
+			"apple",
+			"facebook",
+			"fb",
+			"ArticleCollection",
+			"tld",
+			"a{",
+			"artile img",
+			"14px",
+			"body{",
+			"body",
+			"open",
+			"body",
+			"tpl_article",
+			"content",
+			"subscription",
+			"tpl_informs",
+			"InformsCollection",
+			"informme_user",
+			"User",
+			"inform",
+			"\"//",
+			"//",
+			"title",
+			"you",
+			"<section id=\"topicbox\" style=\"float:right;\" class=\"topic_twitter\">\n		<img src=\"//cdn.informme.de/img/ajax-loader.gif\" />\n		<div id=\"twitter\"></div>\n	</section>\n	<section id=\"topicbox\" style=\"float:left;\" class=\"topic_articles\">\n		<img src=\"//cdn.informme.de/img/ajax-loader.gif\" />\n	</section>",
+			"get_feednames"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"",
+			"\"",
+			"\"http://"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rumor.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 39.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "rumor.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
