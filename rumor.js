@@ -10,7 +10,10 @@ t.on("error", function(e) {
 	console.error(e);
 });
 
-t.track("#thomastest2014");
+var hashtag = "germanwings";
+t.track(hashtag);
+console.log("Tracking " + hashtag);
+console.log("...");
 
 ///////////////////////////////////////////////////////
 
@@ -36,7 +39,7 @@ function rumor(tweet, answer) {
 }
 
 // SOURCE AMBIGUITY
-function sourceAmbiguity(tweet, sentimentResult, answer) {
+function sourceAmbiguity(tweet, sentimentResult, entityResult, answer) {
 	var hasSource = ("url" in entityResult.entities && entityResult.entities.url.length > 0);
 
 	if(hasSource && sentimentResult.polarity == "negative" && sentimentResult.polarity_confidence > 0.25) {
@@ -111,7 +114,8 @@ function check(tweet) {
 	rumor(tweet, function(answer, sentimentResult, entityResult) 
 	{ 
 		                                                           console.log("> Rumor               : ", answer); 
-		sourceAmbiguity(tweet, sentimentResult, function(answer) { console.log("> SourceAmbiguity     : ", answer); });
+		sourceAmbiguity(tweet, sentimentResult, entityResult, 
+												function(answer) { console.log("> SourceAmbiguity     : ", answer); });
 		anxiety                         (tweet, function(answer) { console.log("> Anxiety             : ", answer); });
 		personalInvolvement             (tweet, function(answer) { console.log("> PersonalInvolvement : ", answer); });
 		contentAmbiguity                (tweet, function(answer) { console.log("> ContentAmbiguity    : ", answer); });
